@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "id": "6de7f8g9",
+        "ticket": {
+            "eventName": "The Grand New Year's Eve Bash",
+            "eventDateTime": "01/01/2021 01:01",
+            "venue": "Grand Ballroom, Hotel XYZ",
+            "contactPhone": "+998711234566",
+            "seat": "VIP Section"
+        }
+    }
+]
