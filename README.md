@@ -15,8 +15,8 @@ Express.js
 Pug
 Other dependencies specified in package.json
 Links:
-GitHub Repository https://github.com/00016786/EventPlanningApp
-Hosted Application 
+GitHub Repository--> https://github.com/00016786/EventPlanningApp
+Hosted Application--> https://eventplanningapp-2.onrender.com 
 Project Structure:
 /web-application-root
   - app.js
